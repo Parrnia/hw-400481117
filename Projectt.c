@@ -33,7 +33,6 @@ int even(int a){
 
  else 
 
- return 0;
 
 
 }
